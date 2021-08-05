@@ -1,0 +1,27 @@
+
+
+
+.form-control{
+    margin-bottom:20px ;
+}
+
+textarea:focus, input:focus, input[type]:focus {
+    border-color: grey;
+    box-shadow: 0 1px 1px (#8e1c7c)inset, 0 0 8px #8e1c7c;
+    outline: 0 none;
+}
+
+.form-label{
+    margin-bottom: 25px;
+}
+
+.container-forget{
+    padding-left: 290px;
+    padding-right: 200px;
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+.btn-b{
+    margin-top: 20px;
+}
+
